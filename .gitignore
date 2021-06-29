@@ -1,0 +1,7 @@
+*.pyc
+*.egg-info
+.coverage
+env/
+Scripts
+Lib
+pyvenv.cfg
