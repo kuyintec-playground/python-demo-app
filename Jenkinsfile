@@ -1,2 +1,2 @@
-library 'kuyint@master'
+@Library('kuyint@master') _
 pythonV1()
